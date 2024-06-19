@@ -1,0 +1,20 @@
+[
+  {
+    "address": "ATPVJYGEGP5H6GCZ4T6CG4PK7LH5OMWXHLXZHDPGO7RO6T3EHWTF6UUY6E",
+    "type": "TEAM",
+    "txid": "DRKIQXXNAILFTSNVFSF3SHPNCU47N3JPOX5LEXZNG5FAX5WQWCBQ",
+    "description": "Main distribution wallet." 
+  },
+  {
+    "address": "HXWYLLZDPTM5OXS3DPARMTG52RSBMMCQNKT4L2LZRRXYPNAWJBT6VIW6WU",
+    "type": "TEAM",
+    "txid": "DWQGSLM5M3AY4LUTGJEMSLLZP4M7CGYFTTXHCFPSPEVZ5MACUBMQ",
+    "description": "Second distribution wallet." 
+  },
+  {
+    "address": "MO3FUXGKGZRTVYOSCXR3FXMPZQCZHR2BGGT2B5SINVBA3W6YCZNO25GGLM",
+    "type": "BURN",
+    "txid": "7WEKMQPWO5OR6BM5DB5WV47QHA4XM65WSJHNA4MNV2ERSGKDD7QQ",
+    "description": "burn x amount of FRY each quarter and we burn all FRY that is used to purchase a BYOD license" 
+  }
+]
